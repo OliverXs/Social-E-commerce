@@ -1,0 +1,29 @@
+#header{
+    width: 100vw;
+    height: 2rem;
+
+    display: block;
+    position: relative;
+    box-sizing: border-box;
+
+    background-color: var(--color-dark-clasic-blue);
+}
+#header-content{
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+}
+#header-content #header-logo-content{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+#header-content #header-logo-content img{
+    width: auto;
+    height: 1.5rem;
+}
+

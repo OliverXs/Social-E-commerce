@@ -1,0 +1,19 @@
+:root{
+    /* Cores de suporte */
+    --color-background: #13171F;
+    --color-dark-clasic-blue: #111E38;
+    --color-brackground-stories: #010712;
+    
+    /* Cores de destaque Cyberpunk */
+    --color-cyberblue-dark: #049DD9;
+    --color-cyberblue-avg: #04B2D9;
+    --color-cyberblue-light: #04D9D9;
+    --color-cyberpink-dark: #A60A53;
+    --color-cyberpink-avg: #D941B0;
+    --color-cyberpink-light: #F373A8;
+
+    --color-text-white: #F2F2F2;
+
+    /* Settings of the page content */
+    font-size: 16px;
+}
